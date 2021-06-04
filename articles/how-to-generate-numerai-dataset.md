@@ -367,7 +367,7 @@ targetは`nomi`と`kazutsugi`の2種類ありました。targetも数値が5種�
 
 - https://forum.numer.ai/t/decoding-the-signals-target/2501
 
-今回はこちらのコードを参考に生成してみました。
+ただ再現はできておらず、提供されているtargetとはまだ程遠い状況ですが、元のデータはほぼこちらを利用しているだろういうことと、今回は`nomi`と`kazutsugi`の関係性を再現することが目的なので、こちらのコードを参考に生成してみました。
 コアとなるコードはこちらです。
 
 ```python
