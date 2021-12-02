@@ -1,9 +1,9 @@
 ---
 title: "Numerai:トーナメントで試したモデリングを振り返る"
 emoji: "💨"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["numerai"]
-published: false
+published: true
 ---
 
 この記事は[Numerai AdventCalendar 2021](https://adventar.org/calendars/6226)の3日目の記事です。
