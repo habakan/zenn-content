@@ -62,7 +62,7 @@ liveのパフォーマンスは[こちら](https://dashboard.numeraipayouts.com/
 *Catboostの通常学習(habakan_c)とweight付き学習(habakan_cgl)の比較 Round: 261~288*
 
 なぜCatboostだとここまで差がでるかは検証中ですが、現在のLBも高めなので結果的に自分のメインモデルになっています。
-*[https://numer.ai/habakan_cgl](numer.ai/habakan_cgl)*
+https://numer.ai/habakan_cgl  
 ちなみにDiagnosticsは、なかなかひどいです。
 ![](https://i.gyazo.com/871fd3d3b548bc4037c74c6955fe410c.png)
 
