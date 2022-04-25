@@ -116,9 +116,6 @@ DiagnosisticsではAllPredictionsにおいてはベースラインより1500以�
 
 Liveではそれぞれ以下のモデルとしてモニタリングしています
 
-- https://numer.ai/yagami_lightgbm
-- https://numer.ai/l_lawlietgbm
-
 ![](https://i.gyazo.com/11e005e5b845eb89748a06f979cc69db.png)
 *Round 284 ~ 288*
 
